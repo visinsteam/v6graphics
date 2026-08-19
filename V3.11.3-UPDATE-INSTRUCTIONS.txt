@@ -1,0 +1,19 @@
+V6 HQ v3.11.3 — PRODUCTION UX POLISH
+
+Apply directly on top of v3.11.2.
+
+Replace the included files at their matching repository paths.
+
+This patch includes:
+- Mobile News overflow/title fix
+- Slightly narrower mobile navigation drawer
+- Homepage eyebrow + CTA alignment fix
+- Mobile roster profile name sizing fix
+- Desktop scrim/tournament result card collision fixes
+- Services CTA clarity redesign
+- Dynamic HQ Teams card packing
+- Dynamic Reports & Analytics card packing
+- Primary Super User registered-row alignment
+
+No Supabase migration is required.
+No Netlify environment/config changes are required.
